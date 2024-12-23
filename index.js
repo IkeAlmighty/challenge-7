@@ -58,6 +58,7 @@ ${license}\n\n
 - <a href="#contribute">Contribute</a>
 - <a href="#how-to-use">How to Use</a>
 - <a href="#testing-instructions">Testing Instructions</a>
+- <a href="#license">License</a>
 - <a href="#questions">Contact and Questions</a>
 ## Description \n
 ${description}\n\n 
