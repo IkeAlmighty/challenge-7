@@ -30,11 +30,11 @@ Here is a screen shot of what the program might look like after entering using i
 
 ## Contribute
 
-Use this app to generate a README from user prompts on the command line
+You can contribute by makinga poll request to https://github.com/ikealmighty/challenge-7.git
 
 ## How to Use
 
-You can contribute by makinga poll request to https://github.com/ikealmighty/challenge-7.git
+Use this app to generate a README from user prompts on the command line
 
 ## Testing Instructions
 
